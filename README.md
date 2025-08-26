@@ -31,7 +31,7 @@ Aqui no GitHub você vai encontrar meus projetos de estudos, trabalhos da faculd
 ## 📫 Como falar comigo?
 
 - [LinkedIn](https://www.linkedin.com/in/gean-igor-29a86933/)
-- Email: seu.email@exemplo.com
+- Email: geanigor2017@gmail.com
 
 ---
 
