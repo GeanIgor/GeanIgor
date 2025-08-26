@@ -1,7 +1,7 @@
-# 👨‍💻 Olá, eu sou [Seu Nome]!
+# 👨‍💻 Olá, eu sou Gean Igor!
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, programação e por resolver problemas através do código.  
-Atualmente, estou focado em aprender e evoluir nas áreas de **desenvolvimento web**, **back-end** e **bancos de dados**.
+🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas**
+Atualmente, estou focado em aprender e evoluir na área
 
 ## 🚀 Tecnologias que estou estudando
 
@@ -30,7 +30,7 @@ Aqui no GitHub você vai encontrar meus projetos de estudos, trabalhos da faculd
 
 ## 📫 Como falar comigo?
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- [LinkedIn](https://www.linkedin.com/in/gean-igor-29a86933/)
 - Email: seu.email@exemplo.com
 
 ---
