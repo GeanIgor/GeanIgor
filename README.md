@@ -15,8 +15,7 @@ Atualmente, estou focado em aprender e evoluir na área
 
 - Estruturas de Dados e Algoritmos
 - Padrões de Projeto (Design Patterns)
-- Boas práticas de desenvolvimento
-- Projetos pessoais com Java e Node.js
+- Boas práticas de desenvolvimento, arquitetura e organização de código
 
 ## 📁 Meus repositórios
 
