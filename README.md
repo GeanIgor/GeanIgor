@@ -35,4 +35,4 @@ Aqui no GitHub você vai encontrar meus projetos de estudos, trabalhos da faculd
 ---
 
 ### ✨ Obrigado por visitar meu perfil!  
-Vamos codar e crescer juntos 🚀
+
