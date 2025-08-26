@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, eu sou Gean Igor!
+# 👨‍💻 Olá, eu sou Gean!
 
 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas**
 Atualmente, estou focado em aprender e evoluir na área
