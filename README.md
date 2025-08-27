@@ -5,11 +5,8 @@ Atualmente, estou focado em aprender e evoluir na área
 
 ## 🚀 Tecnologias que estou estudando
 
-- 💻 Linguagens: `Java`, `JavaScript`, `Python`, `SQL`
+- 💻 Linguagens: `Java`, `JavaScript`, `Python`,
 - 🌐 Front-end: `HTML`, `CSS`, `React (básico)`
-- ⚙️ Back-end: `Node.js`, `Spring Boot`
-- 🛢️ Banco de dados: `MySQL`, `MongoDB`
-- 🧰 Outros: `Git`, `GitHub`, `Postman`
 
 ## 📚 Atualmente estudando
 
